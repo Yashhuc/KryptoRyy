@@ -1,0 +1,2 @@
+# KryptoRyy
+Crowdfunding decentralised application
